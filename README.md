@@ -29,3 +29,6 @@ Once I had split my data, encoded it and had done k-fold for cross validation I 
 
 The model that performed best was logistic regression with an accuracy of 98.56% and a log loss of 0.19. 
  
+*Next Steps and Recommendatios*
+
+To further enhance this model I would traing on larger sets of data. Additionally I would consider using some neural network models for image classification to improve accuracy beyond the logistic regression model. 
